@@ -9,6 +9,12 @@ sections:
       title: <strong><font size="7">Publications</font></strong>
   - block: markdown
     content:
+      title: <u>International Journal Papers</u>
+      text: |
+        #### <u>2026</u>
+          * D. Kondo, Y. Shibuya, R. S. Yamaguchi, T. Ishihara, Y. Sekiya, T. Nakata, and T. Asami, ''Assessing the Adoption of Email Security Measures After Google's New Sender Guidelines,'' *IEEE Transactions on Network and Service Management*. (Accepted)
+  - block: markdown
+    content:
       title: <u>International Conference Papers</u>
       text: |
         #### <u>2026</u>
